@@ -1,2 +1,3 @@
 First change added to file2.txt
 Second change added to file2.txt
+Third change added to file2.txt
