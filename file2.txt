@@ -1,1 +1,2 @@
 First change added to file2.txt
+Second change added to file2.txt
